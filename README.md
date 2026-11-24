@@ -1,15 +1,15 @@
-# Python Programs 🐍
+# Python Programs 
 
 A collection of Python scripts and algorithmic exercises developed during my Computer Science (NSI) coursework.
 
-## 📂 Repository Contents
+##  Repository Contents
 
 * **`Bescherelle.py`** — French verb conjugation tool / assistant.
 * **`Convertisseur des bases.py`** — Number base converter (binary, decimal, hexadecimal, etc.).
 * **`Réservation.py`** — Booking and reservation management program.
 * **`Sac à dos optio.py`** — Implementation and optimization of the classic Knapsack problem (*problème du sac à dos*).
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
