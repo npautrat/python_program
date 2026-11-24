@@ -19,5 +19,5 @@ A collection of Python scripts and algorithmic exercises developed during my Com
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/npautrat/python_program.git](https://github.com/npautrat/python_program.git)
+   git clone https://github.com/npautrat/python_program.git
    cd python_program
